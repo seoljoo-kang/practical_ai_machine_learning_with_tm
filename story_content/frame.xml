@@ -45,6 +45,7 @@
             </options>
           </option>
           <option name="logoAltText" />
+          <option name="logoAltTextEnabled" value="true" />
         </options>
       </optiongroup>
       <optiongroup name="menuoptions">
@@ -1485,6 +1486,7 @@
       <string id="close">Close</string>
       <string id="closed_captions">Captions</string>
       <string id="closedcaptions_shortcut">Toggle captions</string>
+      <string id="comma_key">Comma</string>
       <string id="continueresponsive">Continue</string>
       <string id="ctrl_key">Ctrl</string>
       <string id="definition">Definition</string>
@@ -1512,6 +1514,8 @@
       <string id="next">NEXT</string>
       <string id="next_shortcut">Next</string>
       <string id="outline">Menu</string>
+      <string id="outline_container">Menu</string>
+      <string id="period_key">Period</string>
       <string id="playback_speed_normal">Normal</string>
       <string id="playback_speed_title">Playback Speed</string>
       <string id="playpause_shortcut">Play / pause</string>
@@ -1524,6 +1528,7 @@
       <string id="progress_second">second</string>
       <string id="progress_seconds">seconds</string>
       <string id="question_list">Question List</string>
+      <string id="question_mark_key">Question mark</string>
       <string id="replay_shortcut">Replay</string>
       <string id="resources">Resources</string>
       <string id="restart">Restart</string>
@@ -1587,10 +1592,7 @@
       <string id="video_transcript_select_track">Select track</string>
       <string id="video_transcript_title">Transcripts</string>
       <string id="zoom_to_fit">Zoom to fit</string>
-      <string id="comma_key">Comma</string>
       <string id="continue">Continue</string>
-      <string id="period_key">Period</string>
-      <string id="question_mark_key">Question mark</string>
       <string id="invalid_prompt_button">OK</string>
       <string id="invalid_prompt_message">You must complete the question before submitting.</string>
       <string id="invalid_prompt_title">Invalid Answer</string>
